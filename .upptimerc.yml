@@ -20,11 +20,15 @@ assignees:
   - cyrilsebastian
 
 status-website:
-  name: Cyril Sebastian — Status
-  cname: status.cyrilsebastian.com
-  logoUrl: https://cyrilsebastian.com/favicon.png
+  name: Cyril Sebastian
+  introTitle: Monitoring of Cyril's apps and sites.
+  introMessage: Live status for everything public-facing.
   navbar:
-    - title: Home
-      href: https://cyrilsebastian.com
+    - title: Status
+      href: https://status.cyrilsebastian.com
+    - title: GitHub
+      href: https://github.com/cyrilsebastian
+    - title: Twitter
+      href: https://twitter.com/cyrilsebastian
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
