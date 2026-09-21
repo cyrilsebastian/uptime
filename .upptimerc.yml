@@ -30,5 +30,12 @@ status-website:
       href: https://github.com/cyrilsebastian
     - title: Twitter
       href: https://twitter.com/cyrilsebastian
+
+workflowSchedule:
+  uptime: "*/5 * * * *"      
+  responseTime: "0 23,11 * * *"
+  graphs: "0 0 * * *"
+  updateTemplate: "0 0 * * 0"
+  summary: "0 0 * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
